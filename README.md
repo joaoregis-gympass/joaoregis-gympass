@@ -1,1 +1,1 @@
-- 🌱 I’m currently working at Gympass as a Software Engineer.
+- 🌱 I’m currently working at Wellhub (former Gympass) as a Software Engineer.
